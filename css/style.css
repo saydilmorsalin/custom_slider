@@ -1,0 +1,35 @@
+.banner{
+    background-image: url(../images/toby-elliott-LLx4kB4L6Us-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.slider{
+    background-color: rgb(226, 219, 210);
+    padding: 70px;
+}
+.slider h1{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.slider p{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.slider button{
+    margin-bottom: 100px;
+}
+.carousel-indicators .customs{ 
+    bottom: 30px;
+    
+}
+.carousel-indicators [data-bs-target] { 
+    width: 11px;
+    height: 9px;
+    
+    border-radius: 50%;
+    
+}
+.f{
+    padding: 50px;
+    background-color: rgb(182, 165, 165);
+}
